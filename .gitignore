@@ -1,0 +1,16 @@
+elpa/*
+*.elc
+recentf*
+*~
+auto-save-list/
+anaconda-mode/
+ac-comphist.dat
+url/
+*cache*
+backups/
+tramp
+.org-id-locations
+eshell/history
+eshell/lastdir
+.python-environments
+/projectile-bookmarks.eld
